@@ -1,0 +1,30 @@
+[
+    {
+        "username": "berkay",
+        "password": "12345678",
+        "name": "Berkay Esen",
+        "email": "berkayesen@example.com",
+        "age": 23
+    },
+    {
+        "username": "ahmet",
+        "password": "12345678",
+        "name": "Ahmet Yilmaz",
+        "email": "ahmet@example.com",
+        "age": 39
+    },
+    {
+        "username": "fadime",
+        "password": "12345678",
+        "name": "Fadime Yildirim",
+        "email": "fatma@example.com",
+        "age": 15
+    },
+    {
+        "username": "hatice",
+        "password": "12345678",
+        "name": "Hatice Keskin",
+        "email": "hatice@example.com",
+        "age": 51
+    }
+]
